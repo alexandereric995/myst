@@ -46,6 +46,6 @@
     
      
    
- Click here to [DEMO](https://alexandereric995.github.io/stmy001/)
+ Click here to [DEMO](https://alexandereric995.github.io/myst/)
    
    	
