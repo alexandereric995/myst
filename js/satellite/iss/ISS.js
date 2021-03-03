@@ -1,6 +1,6 @@
 window.ISS = class {
     static get ID() {
-        return 25544;
+        return default;
     }
 
     // ############### ISS Ports ###############
