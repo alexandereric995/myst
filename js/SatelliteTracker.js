@@ -9,8 +9,7 @@ window.SatelliteTracker = class {
 
         // Init loading progress
         let scope = this;
-        this.loadingProgress = new LoadingProgress({
-            "model": "Contacting Host",
+        this.loadingProgress = new LoadingProgress({,            
         }, function () {
             scope.initializationCompleted();
         });
